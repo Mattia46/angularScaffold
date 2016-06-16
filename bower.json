@@ -1,0 +1,21 @@
+{
+  "name": "appName",
+  "description": "",
+  "main": "karma.conf.js",
+  "authors": [
+    "Mattia46 <mattia.assogna@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-mocks": "^1.5.6"
+  }
+}
