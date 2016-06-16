@@ -16,3 +16,8 @@ To run your test:
 ```
 $ karma start karma.conf.js
 ```
+
+Remenber to change the appName in:
+ - app.js
+ - test/unit/appSpec.js
+ 
