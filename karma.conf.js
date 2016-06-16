@@ -26,7 +26,7 @@ module.exports = function(config) {
           success: 'green',
           info: 'bgGreen',
           warning: 'cyan',
-          error: 'bgRed'
+          //error: 'bgRed'
         }
       },
 
